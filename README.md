@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio Modulo 2 PrepCourse Henry
+Prueba de como crear un repositorio por github y clonarlo asi poder tener un repositorio local.
